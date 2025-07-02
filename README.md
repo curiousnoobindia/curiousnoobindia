@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @curiousnoobindia
-- 👀 I’m interested in learning to code and hacking
-- 🌱 I’m currently learning C++,PHP,JQuery and Hacking
-- 💞️ I’m looking to collaborate on making tools and malwares
-- 📫 How to reach me DM me on @shubhambhange4real
-
-
+👋 Hi, I’m @curiousnoobindia
+👀 Interested in Frontend Development and learning how the web works
+🌱 Currently learning HTML, CSS, JavaScript, and React
+💻 Building beginner-friendly frontend projects to sharpen my skills
+📚 Exploring coding, design, and real-world project building
+📫 Reach me via DM on Instagram: @shubhambhange4real
